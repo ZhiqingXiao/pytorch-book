@@ -1,5 +1,9 @@
 # 神经网络与PyTorch实战 
 
+**世界上第一本 PyTorch 1.0 纸质教程书籍**
+
+![Book](http://www.cmpbook.com/data/stackroom/6/605771.jpg)
+
 本书讲解神经网络设计与PyTorch应用。
 
 全书分为三个部分。
@@ -9,11 +13,19 @@
 
 # Application of Neural Network and PyTorch
 
+**The First Hard-copy Tutorial Book on PyTorch 1.0**
+
 _Application of Neural Network and PyTorch_ is an introductory tutorial on artificial neutral networks. It covers the fundamental theory of tensors and artificial neutral networks, as well as the implementation with PyTorch API.
 - Theory: Without preparatory knowledge of advanced mathmatics, this book leverages the concept of tensor to efficiently cover all important theoretics basis on neural networks.
-- Practice: This book leads you to deploy the latest version of PyTorch (0.4.1) in your favorate OS (Windows or macOS), and use the concise PyTorch APIs to build neural networks for your application in a super easy way.
+- Practice: This book leads you to deploy the latest version of PyTorch (1.0) in your favorate OS (Windows or macOS), and use the concise PyTorch APIs to build neural networks for your application in a super easy way.
 
 
-![Book](http://www.cmpbook.com/data/stackroom/6/605771.jpg)
+*bibtex:*
 
-
+    @book{xiao2019,
+     title     = {Application of Neural Network and {PyTorch}},
+     author    = {Xiao, Zhiqing},
+     year      = 2018,
+     month     = 8,
+     publisher = {China Machine Press},
+    }
