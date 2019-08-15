@@ -11,7 +11,7 @@
 - 第 3～9 章：讲解基于 PyTorch 的科学计算和神经网络搭建，涵盖几乎所有 PyTorch 基础知识，涉及所有神经网络的常用结构，并通过 8 个例子使你完全掌握神经网络的原理和应用。
 - 第 10 章和第 11 章：介绍生成对抗网络和增强学习，使你了解更多神经网络的实际用法。
 
-勘误列表：https://github.com/zhiqingxiao/pytorch-book/wiki/errata [Link](https://github.com/zhiqingxiao/pytorch-book/wiki/errata)
+勘误列表：https://github.com/zhiqingxiao/pytorch-book/wiki/errata
 
 # Application of Neural Network and PyTorch
 
