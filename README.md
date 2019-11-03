@@ -19,7 +19,7 @@
 
 _Application of Neural Network and PyTorch_ is an introductory tutorial on artificial neutral networks. It covers the fundamental theory of tensors and artificial neutral networks, as well as the implementation with PyTorch API.
 - Theory: Without preparatory knowledge of advanced mathmatics, this book leverages the concept of tensor to efficiently cover all important theoretics basis on neural networks.
-- Practice: This book leads you to deploy the latest version of PyTorch (1.0) in your favorate OS (Windows or macOS), and use the concise PyTorch APIs to build neural networks for your application in a super easy way.
+- Practice: This book leads you to deploy the latest version of PyTorch in your favorate OS (Windows, macOS, or Linux), and use the concise PyTorch APIs to build neural networks for your application in a super easy way.
 
 
 
