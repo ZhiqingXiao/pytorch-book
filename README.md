@@ -15,7 +15,7 @@
 
 # Application of Neural Network and PyTorch
 
-**The First Hard-copy Tutorial Book on PyTorch 1.0**
+**The First Hard-copy Tutorial Book on PyTorch 1**
 
 _Application of Neural Network and PyTorch_ is an introductory tutorial on artificial neutral networks. It covers the fundamental theory of tensors and artificial neutral networks, as well as the implementation with PyTorch API.
 - Theory: Without preparatory knowledge of advanced mathmatics, this book leverages the concept of tensor to efficiently cover all important theoretics basis on neural networks.
