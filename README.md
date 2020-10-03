@@ -13,7 +13,7 @@
 
 在线阅读：https://www.hzmedia.com.cn/books11119345
 
-勘误列表：https://github.com/zhiqingxiao/pytorch-book/wiki/errata
+勘误列表：https://nbviewer.jupyter.org/github/zhiqingxiao/pytorch-book/blob/master/errata/errata201808.ipynb
 
 # Application of Neural Network and PyTorch
 
