@@ -15,6 +15,10 @@
 
 勘误列表：https://nbviewer.jupyter.org/github/zhiqingxiao/pytorch-book/blob/master/errata/errata201808.ipynb
 
+本书中介绍的PyTorch的安装方法已过时。PyTorch安装方法（2020年12月更新）：
+https://mp.weixin.qq.com/s/uRx1XOPrfFOdMlRU6I-eyA
+
+
 # Application of Neural Network and PyTorch
 
 **The First Hard-copy Tutorial Book on PyTorch 1**
